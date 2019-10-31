@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Desktop\\C# Testing\\Testing1\\Testing1.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Proicete pe Git\\Project_1\\Adunarea a doua numere\\Testing1.csproj",
       "projectName": "Testing1",
-      "projectPath": "C:\\Users\\alexa\\Desktop\\C# Testing\\Testing1\\Testing1.csproj",
+      "projectPath": "C:\\Users\\alexa\\Desktop\\Proicete pe Git\\Project_1\\Adunarea a doua numere\\Testing1.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Desktop\\C# Testing\\Testing1\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Desktop\\Proicete pe Git\\Project_1\\Adunarea a doua numere\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
